@@ -9,11 +9,11 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>quickstart-rest</artifactId>
+    <artifactId>quickstart-service-rest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>quickstart-rest</name>
-    <description>rest 服务调用层</description>
+    <name>quickstart-service-rest</name>
+    <description>服务api feign调用服务</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

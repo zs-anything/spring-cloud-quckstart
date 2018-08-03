@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: rest # 指定进行服务注册时该服务的名称
+    name: service-rest # 指定进行服务注册时该服务的名称
   # 控制台彩色输出
   output:
     ansi:

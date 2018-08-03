@@ -11,7 +11,10 @@
     <description>Spring Cloud 基础工程</description>
 
     <modules>
-        <module>quickstart-rest</module>
+        <module>quickstart-service-rest</module>
+        <module>quickstart-eureka-server</module>
+        <module>quickstart-service-compose</module>
+        <module>quickstart-zuul-server</module>
     </modules>
     <packaging>pom</packaging>
 
