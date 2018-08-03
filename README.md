@@ -1,4 +1,4 @@
-# spring-cloud-quckstart
+# spring-cloud-quickstart
 Spring cloud 种子工程
 
 开放外部接口
