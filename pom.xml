@@ -7,7 +7,7 @@
     <artifactId>project-cloud-quickstart</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>com.zsanything.cloud</name>
+    <name>spring-cloud-quickstart</name>
     <description>Spring Cloud 基础工程</description>
 
     <modules>
