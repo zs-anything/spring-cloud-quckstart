@@ -23,6 +23,7 @@ feign:
         connectTimeout: 5000
         readTimeout: 5000
 
+# 压缩配置
 feign:
   compression:
     request:
@@ -32,3 +33,7 @@ feign:
     response:
       enabled: true # 开启响应压缩功能
 
+# 断路器
+feign:
+  hystrix:
+    enabled: true
